@@ -1,4 +1,28 @@
 @charset "utf-8";
-.e{
-	color:aqua;
+div{
+	width:100%;
+}
+.page1{
+	height:1090px;
+}
+.page2{
+	height:790px;
+}
+.page3{
+	height:756px;
+}
+.page4{
+	height:630px;
+}
+.page5{
+	height:1543px;
+}
+.page6{
+	height:981px;
+}
+.page7{
+	height:1034px;
+}
+.page8{
+	height:423px;
 }
