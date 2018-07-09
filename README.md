@@ -10,3 +10,5 @@
 
 
 https://github.com/SINNIExh/music.git
+
+git remote -v
